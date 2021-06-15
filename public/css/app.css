@@ -1,0 +1,15 @@
+body{
+    background-color: black !important;
+    background-image: unset !important;
+}
+
+th,.card-title{
+    color: orange;
+    margin-top: 10px;
+}
+
+.listing-title{
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
